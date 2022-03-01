@@ -3,7 +3,7 @@
   <div class="container">
     <navigasi/>
     <div class="jumbotron">
-        <h1>WELCAME TO MY STORE</h1>
+        <h1>WELCOME TO MY STORE</h1>
       </div>
   </div>
   <div class="container">
